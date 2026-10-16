@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Student Management System
 
 A beginner-friendly student management project built using Python and JSON file handling.
@@ -15,3 +16,6 @@ A beginner-friendly student management project built using Python and JSON file 
 
 ## How to Run
 Run `python app.py` in your terminal.
+=======
+# python-student-management-system.
+>>>>>>> 25552c6cbdbf0bb141750b070e2dd83c6a9b4753
